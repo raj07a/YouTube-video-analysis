@@ -1,0 +1,19 @@
+**Video 1:**
+- **Summary:** "This video provides an overview of the topic, explaining key points in a structured manner. The discussion remains positive and engaging."
+- **Sentiment:** Positive
+
+**Video 2:**
+- **Summary:** "The content covers critical perspectives on the issue, highlighting challenges and concerns. Some parts express disappointment."
+- **Sentiment:** Negative
+
+**Video 3:**
+- **Summary:** "The video presents balanced arguments, considering both pros and cons without a strong emotional tone."
+- **Sentiment:** Neutral
+
+**Video 4:**
+- **Summary:** "A highly energetic video, emphasizing excitement and enthusiasm in the narration."
+- **Sentiment:** Positive
+
+**Video 5:**
+- **Summary:** "Some controversial aspects discussed, with a mix of optimism and concern."
+- **Sentiment:** NeutralS

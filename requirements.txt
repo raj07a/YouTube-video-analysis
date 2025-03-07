@@ -1,0 +1,7 @@
+os
+yt-dlp
+whisper
+nltk
+pytube
+requests
+textblob
